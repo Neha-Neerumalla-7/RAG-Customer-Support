@@ -1,0 +1,27 @@
+# TECHVAULT CUSTOMER SUPPORT KNOWLEDGE BASE
+
+## 1. Return and Refund Policy
+- **Return Window**: Customers can return eligible items within 30 calendar days of delivery.
+- **Item Condition**: Items must be in their original packaging, unused, and include all manuals, cords, and accessories.
+- **Non-Returnable Items**: Opened in-ear headphones, customized/engraved devices, and software download licenses are strictly non-refundable.
+- **Refund Process**: Refunds are issued to the original payment method within 5 to 7 business days after our warehouse inspects the returned item.
+- **Restocking Fee**: A 10% restocking fee applies to opened computer hardware and monitors unless the return is due to a verified manufacturer defect.
+- **Return Shipping**: TechVault provides a prepaid return shipping label for defective items. For remorse returns, a flat $8.50 return postage fee is deducted from the refund amount.
+
+## 2. Shipping and Delivery Information
+- **Standard Shipping**: 3–5 business days. Free on all orders over $50; otherwise, a flat rate of $4.99 applies.
+- **Express Shipping**: 1–2 business days. Costs $14.99 regardless of order value. Orders must be placed before 2:00 PM EST for same-day dispatch.
+- **International Shipping**: Available to over 45 countries. Delivery takes 7–14 business days. Duties and import taxes are calculated at checkout.
+- **Order Tracking**: Once an order ships, a tracking number is sent via email within 24 hours. Customers can also track parcels by logging into their TechVault account.
+- **Lost or Damaged Parcels**: If tracking shows delivered but you have not received it, please check with neighbors and wait 24 hours. Contact support within 7 days of the delivery timestamp to initiate an investigation or reshipment.
+
+## 3. Order Management and Modifications
+- **Order Cancellations**: Orders can only be modified or cancelled within 60 minutes of placement via the "Order History" page. After 60 minutes, the order enters warehouse fulfillment and cannot be stopped.
+- **Changing Delivery Address**: Address corrections must be requested within the 60-minute cancellation window. TechVault cannot reroute packages once dispatched.
+- **Payment Methods Accepted**: Visa, MasterCard, American Express, PayPal, Apple Pay, and Google Pay. We do not accept cash-on-delivery (COD) or bank wire transfers for retail orders.
+
+## 4. Warranty and Technical Support
+- **Standard Hardware Warranty**: All new hardware carries a 1-year limited manufacturer warranty covering defects in materials and workmanship.
+- **Refurbished / Certified Open-Box**: Carries a 90-day TechVault Certified warranty.
+- **Exclusions**: Accidental damage (spills, drops), unauthorized modifications, and normal battery degradation are excluded from warranty coverage.
+- **Support Channels**: Live chat is available Monday–Friday, 8:00 AM – 8:00 PM EST. Email tickets sent to support@techvault.example.com are responded to within 12 business hours.
